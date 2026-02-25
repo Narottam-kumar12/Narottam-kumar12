@@ -148,7 +148,7 @@ https://github.com/Narottam-kumar12/SentimentAnalysisSystem
 
 # 🧮 Problem Solving
 
-- Solved 300+ DSA problems
+- Solved 400+ DSA problems
 - Strong in Data Structures and Algorithms
 - Focus on writing optimized and scalable solutions
 
