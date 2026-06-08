@@ -30,9 +30,8 @@
 
 I'm a **B.Tech CSE student at MMMUT Gorakhpur** (CGPA: 8.58/10) building production-grade AI systems — from raw data pipelines to cloud-deployed ML services. I specialize in the full ML lifecycle: data engineering, model training, MLOps, and AWS deployment.
 
-- 🔭 Currently building: **End-to-end MLOps pipelines on AWS**
+- 🔭 Currently building: **End-to-end MLOps pipelines on AWS And Agentic AI work flow (Langgraph and Langchain)**
 - 🧠 Researching: **LLM applications & Retrieval-Augmented Generation**
-- 📄 Published: Research paper on *Twitter Sentiment Analysis* (MMMUT, 2024) — **88.79% train / 77.70% test accuracy**
 - 💬 Ask me about: **ML pipelines, MLOps, AWS, Docker, NLP**
 - 🎯 Open to: **ML Engineer · MLOps Engineer · AI Engineer roles**
 
