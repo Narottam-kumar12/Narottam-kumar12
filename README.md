@@ -161,7 +161,7 @@ I'm a **B.Tech CSE student at MMMUT Gorakhpur** (CGPA: 8.58/10) building product
 
 **B.Tech Computer Science Engineering**  
 Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur  
-**CGPA: 8.58 / 10**
+**CGPA: 8.64 / 10**
 
 ---
 
