@@ -151,7 +151,7 @@ I'm a **B.Tech CSE student at MMMUT Gorakhpur** (CGPA: 8.58/10) building product
 
 | Platform | Solved | Focus |
 |---|:-:|---|
-| [LeetCode](https://leetcode.com/u/NAROTTAMKUMAR/) | 400+ | Arrays, Trees, DP, Graphs |
+| [LeetCode](https://leetcode.com/u/NAROTTAMKUMAR/) | 550+ | Arrays, Trees, DP, Graphs |
 | [GeeksforGeeks](https://www.geeksforgeeks.org/user/knarott81l6/) | Active | DSA, Competitive Programming |
 
 ---
